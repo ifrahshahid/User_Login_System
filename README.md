@@ -1,4 +1,3 @@
-# User_Login_System
 ### **GUI- User Login System**
 User Login System using **Python library Tkinter** and **Database Engine SQLite.**
 
@@ -30,4 +29,8 @@ User Login System using **Python library Tkinter** and **Database Engine SQLite.
 - **Step 4 −** Add C:\>sqlite in your PATH environment variable and finally go to the command prompt and issue sqlite3 command, which should display the following result.
 
 ### **Author**
-**Ifrah Shahid**
+**Mubashara Khan**
+
+**- GitHub:**   https://github.com/mubasharaKhan
+
+**- LinkedIn:**  https://www.linkedin.com/in/mubashara-khan-8161371b9
