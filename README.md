@@ -28,9 +28,4 @@ User Login System using **Python library Tkinter** and **Database Engine SQLite.
 - **Step 3 −** Create a folder C:\>sqlite and unzip above two zipped files in this folder, which will give you sqlite3.def, sqlite3.dll and sqlite3.exe files.
 - **Step 4 −** Add C:\>sqlite in your PATH environment variable and finally go to the command prompt and issue sqlite3 command, which should display the following result.
 
-### **Author**
-**Mubashara Khan**
 
-**- GitHub:**   https://github.com/mubasharaKhan
-
-**- LinkedIn:**  https://www.linkedin.com/in/mubashara-khan-8161371b9
